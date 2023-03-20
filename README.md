@@ -14,8 +14,6 @@ checks if there's a new neovim version available on GitHub
     }
 ```
 
-<<<<<<< HEAD
-=======
 ## Configuration
 
 ```lua
@@ -45,7 +43,6 @@ sections = {
 
 ```
 
->>>>>>> 64190c3 (add lualine integration example)
 ## TODO:
 * remove dependency from curl (use socket.http?)
 * add option for nightlies
