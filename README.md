@@ -7,9 +7,6 @@
 ```
     {
         "diegoroccia/checkupdate.nvim",
-        lazy = false,
-        dev = true,
-        config = true,
         init = function()
             require "checkupdate".init()
         end
