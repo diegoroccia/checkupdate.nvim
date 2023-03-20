@@ -2,7 +2,7 @@
 
 ## Install
 
-* install with [https://github.com/folke/lazy.nvim](lazy.nvim)
+* install with [lazy.nvim](https://github.com/folke/lazy.nvim)
 
 ```
     {
