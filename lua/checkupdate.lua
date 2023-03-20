@@ -8,6 +8,8 @@ local M = {
     update_available = false
 }
 
+M.config = M.setup
+
 M.setup = function(config)
     local default_config = {
         check_at_startup = true,
