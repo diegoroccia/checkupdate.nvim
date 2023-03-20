@@ -1,6 +1,6 @@
 # CheckUpdate.nvim
 
-checks if there's a new medicine Nelson available on GitHub
+checks if there's a new neovim version available on GitHub
 ## Install
 
 * install with [lazy.nvim](https://github.com/folke/lazy.nvim)
