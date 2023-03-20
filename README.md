@@ -5,7 +5,7 @@ checks if there's a new neovim version available on GitHub
 
 * install with [lazy.nvim](https://github.com/folke/lazy.nvim)
 
-```
+```lua
     {
         "diegoroccia/checkupdate.nvim",
         init = function()
@@ -29,7 +29,7 @@ checks if there's a new neovim version available on GitHub
 
 ## Lualine integration example
 
-```
+```lua
 sections = {
     lualine_x = {
         function ()
